@@ -8,5 +8,6 @@ Pour résoudre son problème il a commencé à boire du thé.
 "Ce matin je le sens bien, je vais me faire un petit verre de thé au calme".
 Mais le thé n'étais vraiment pas éfficace.
 
-
+Alors il a décidé de tester quelque chose plus fort... du café ou de la tisane des feuilles de coca -comme les anciens péruvienes-
+Et ben, il a fait un choix, il a goûté la fameuse tisane et il était bien en forme pour faire sa journée chez Becode :-)
 
